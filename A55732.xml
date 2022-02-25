@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The presentment of the Grand Jury of Bristol at the Sessions of the Peace &amp;c. holden there, begun March 13, 1682</title>
+            <author>Bristol (England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55732</idno>
+            <idno type="STC">Wing P3285</idno>
+            <idno type="STC">ESTC R182001</idno>
+            <idno type="EEBO-CITATION">08199870</idno>
+            <idno type="OCLC">ocm 08199870</idno>
+            <idno type="VID">41071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41071)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1237:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The presentment of the Grand Jury of Bristol at the Sessions of the Peace &amp;c. holden there, begun March 13, 1682</title>
+                  <author>Bristol (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills, Jun. for Charles Allin, and published by Ran. Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol (England) --  History --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41071:1" rendition="simple:additions"/>
+            <head>THE PRESENTMENT OF THE Grand JURY OF BRISTOL At the General SESSIONS of the PEACE, <hi>&amp;c.</hi> Holden there, begun <hi>March</hi> 13. 1682.</head>
+            <head type="sub">To the Right Worſhipful, <hi>Thomas Eſton,</hi> Eſq Mayor; The Right Worſhipful Sir <hi>John Churchhill,</hi> Knight, Recorder: And the Right Worſhipful, and Worſhipful, the Court of Aldermen, His Majeſties Juſtices of the Peace now Aſſembled in the General Seſſions of the Peace, Court of <hi>Oyer</hi> and <hi>Terminer,</hi> and General Goal-delivery holden for this City, and County of the ſame City, begun the <hi>13th.</hi> day of <hi>March,</hi> in the Five and Thirtieth Year of His Ma<g ref="char:EOLhyphen"/>jeſties Reign, <hi>Annoque Dom. 1682. The Humble Preſentment of the Grand Inqueſt.</hi>
+            </head>
+            <p>WE,
+<note place="margin">Civ. Briſtol.</note> the Grand Jurors for the Body of this City, and County of the ſame, ha<g ref="char:EOLhyphen"/>ving duly Conſidered the Obligation of our Oath, the Particulars of our Charge, the Nature of our Duty, and the Circumſtances of this City, Have purſuant thereunto laid before this Court ſeveral Bills of Indictment of great and hai<g ref="char:EOLhyphen"/>nous Offences, to which, as to ſo many Grievances, having found your ready Concur<g ref="char:EOLhyphen"/>rence for their redreſs, we can do no leſs in point of Gratitude than apply our ſelves unto your Worſhips, Humbly to acknowledge the great Happineſs we do enjoy under your Care and conſtant Attendance on the arduous Affairs of diſtributive Juſtice, whereby we receive thoſe Benefits of the Law which were intended for us in their firſt Ordina<g ref="char:EOLhyphen"/>tion.</p>
+            <p>As for this City in relation to Unlawful Aſſemblies and Seditious Conventicles, ſo much lately frequented within the ſame by Men who thought their Numbers of Offen<g ref="char:EOLhyphen"/>ders, and Confidence in Offending, ſhould have tired out all Proſecution, and have car<g ref="char:EOLhyphen"/>ried all before them; We muſt needs ſay, it is owing to the Vigilancy and Induſtry of the Magiſtrates that they are now Suppreſſed; for that by putting the Laws in due Exe<g ref="char:EOLhyphen"/>cution, they have been taught, even by feeling Arguments, that the beſt way for their Ring-leaders (thoſe Maſters of Miſ-Rule) is to March off; and the beſt way for their Followers is to Retract and Conform. By which they have told the World, That their great Pretence, wherewith they have ſo long Cheated others and one another [That Matter of Religion and Conſcience was the Cauſe of their Separation] is nothing elſe but a falſe Suggeſtion, and thereby have for ever baffled their Plea of that Argument, whereby they endeavoured to baffle Juſtice it ſelf, and dared the Magiſtrate to give them Oppoſition; ſo that now the buſineſs of the Magiſtrate is rendred much more eaſie for their future Suppreſſion, He having only to do with them in the Plea of Ob<g ref="char:EOLhyphen"/>ſtinacy, the only ſurviving Argument for Non-Conformity.</p>
+            <p>We ſhall only in this particular make bold to repeat a ſhort Sentence out of the Lord Keepers Speech to Serjeant <hi>Saunders,</hi> at his being made Lord Chief Juſtice: <hi>The Temper of this preſent Age requires your Severity in Caſes of Sedition; it was lately grown to that height of Inſolence, and managed with that Malice, that it was thought very near
+<pb facs="tcp:41071:2" rendition="simple:additions"/>breaking out into open Force, to the danger of the Kingdom. But by the Wiſe Conduct of His Majeſty, with the Bleſſing of God, it was ſuffered to baffle it ſelf by its own <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vagancy. You may expect it ſhould now be Cr<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, the refore you muſt be the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Caref<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to ſtop the beginning of ſo dangerous and quick ſpreading a Poyſon, and to Suppreſs <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Materials of Sedition: A great means toward which will be to cut off all hopes it may have of Countenance in the Courts of Juſtice.</hi>
+            </p>
+            <p>And for as much as our late Recorder, Sir <hi>Robert Atkins,</hi> being Proſecuted for ſeve<g ref="char:EOLhyphen"/>ral Miſcarriages in the Execution of his Office, hath been forced to ſurrender the ſame, We Preſent our Hearty Thanks to the Right Worſhipful, the Mayor, Aldermen, and Common Council for their Prudent Management of that Affair, and more eſpecially for their moſt Happy Choice of ſo Worthy, ſo Learned, and ſo Loyal a Perſon to ſuc<g ref="char:EOLhyphen"/>ceed in his room, and be our preſent Recorder, whoſe Acceptance of the ſaid Office and Service of this City we Thankfully Commemorate, and whoſe Appearance on the Bench in the Execution of the ſame we moſt Heartily Congratulate.</p>
+            <p>And whereas it hath pleaſed our Sovereign Lord the King to grant a Writ of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Warranto</hi> to be iſſued out againſt the Charter of this City, and required <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſhort time an Anſwer thereunto: We do therefore, as our Duty in this ſtation, Humbly Recom<g ref="char:EOLhyphen"/>mend the ſame to your Worſhips, deſiring that a timely and Effectual Care may be taken in that ſo Conſiderable an Affair in ſuch manner as may beſt conſiſt with the Pre<g ref="char:EOLhyphen"/>ſervation of the good Eſteem and high Reſpect His Majeſty hath been Graciouſly pleaſed ſo frequently to expreſs towards this City. And a continued Manifeſtation of that Du<g ref="char:EOLhyphen"/>tifulneſs and Loyalty which we have ſo often profeſſed, and do ever intend to bear to<g ref="char:EOLhyphen"/>wards His Moſt Sacred Majeſty, and which may moſt directly tend to the future Good and Advantage of this City, and the Ancient Priviledges of the ſame.</p>
+            <p>We Preſent, That there having been ſeveral Sums of Money Levyed by Diſtreſſes on the Goods of ſeveral Perſons Convicted of being at Unlawful Aſſemblies and Sedi<g ref="char:EOLhyphen"/>tious Conventicles, which (as we are Informed) remain in ſeveral Mens Hands un<g ref="char:EOLhyphen"/>diſpoſed of, whereby the Proſecution of Offenders hath been delay'd, and His Maje<g ref="char:EOLhyphen"/>ſties Service in that Reſpect obſtructed. We do therefore Humbly deſire that your Wor<g ref="char:EOLhyphen"/>ſhips will be pleaſed to cauſe the ſaid Moneys to be brought into Court, and diſtributed according as the Law hath directed, and that Care may be taken to the ſame purpoſe for the future, that ſo the Execution of the Laws may be encouraged, and the Pro<g ref="char:EOLhyphen"/>ceedings of this City Vindicated in ſo doing.</p>
+            <p>We Preſent <hi>John Dowly, Robert Manſel, John Walden, John Brainton, Michael Pindar,</hi> and others, for that in <hi>January</hi> and <hi>February</hi> laſt paſt they opened their Shops, expoſed Goods to Sale, and ſo continued to hold the Fair, called St. <hi>Paul</hi>'s Fair, in Temple Pariſh within this City, longer than the time limited in the Charter for holding the ſaid Fair, to the manifeſt Detriment of the Priviledges and Liberties of this City, and the Free Burgeſſes thereof.</p>
+            <p>And ſince the welfare of this City doth very much conſiſt in the Advantages we receive by the River, which our Anceſtors always ſtudied to ſecure from all Obſtructions and Damages. We therefore deſire your Worſhips to continue the Preſervation of the ſaid River; And to that End, either to chooſe a Committee for inſpecting the ſame, and from time to time to cauſe the Offenders in this point to be brought before your Worſhips, to be proceeded againſt as the Laws direct, or to take ſuch other Effectual Courſe therein, as to your Worſhips ſhall ſeem moſt fit and expedient.</p>
+            <q>We Conclude with our Prayers that God will Bleſs this City with Proſperity, and the Happy Effects we have reaſon to promiſe our ſelves under your Worſhips good Management of the Government thereof. This Kingdom with Peace, and the Kings Majeſty with Health and length of Days, That he may out live the Malice of his Enemies. That no Conſpiracies formed againſt him may proſper. That his Enemies may be cloathed with Confuſion, and that on his Head the Crown may Flouriſh. <hi>Amen.</hi>
+            </q>
+            <closer>God Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>H. Hills,</hi> Jun. for <hi>Charles Allin,</hi> Book-ſeller in <hi>Briſtol:</hi> And Publiſhed by <hi>Ran. Taylor,</hi> near <hi>Stationers Hall.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
